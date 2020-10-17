@@ -1,0 +1,19 @@
+.display-4{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+
+}
+
+.jumbotron{
+
+    background-color: #20315A;
+    border-radius: 5px;
+}
+
+
+.card-header {
+
+    background-color: #20315A;
+    color: white;
+}
